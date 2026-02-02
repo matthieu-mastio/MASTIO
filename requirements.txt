@@ -1,0 +1,10 @@
+matplotlib==3.10.6
+numpy==1.26.4
+pandas==2.3.2
+PyYAML==6.0.2
+SALib==1.5.1
+tqdm==4.67.1
+PyQt5==5.15.11
+openturns==1.25
+scikit-learn==1.6.1
+smt==2.9.4

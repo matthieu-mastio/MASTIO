@@ -1,0 +1,14 @@
+nb_steps: 600
+nb_agents: 40
+density: 0.1
+n_clusters : 4
+cluster_spread : 1 # between 0 (very dense) and 1 (equivalent to uniform)
+
+temperature_decay: 0.996
+n_bins: 30
+
+visualization: yes 
+animate: no
+processed_path: "data/processed/square_simulation"
+products_path: "data/products_example.csv"
+compute_regret: no
