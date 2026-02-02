@@ -3,7 +3,7 @@
 ## Project Description
 MASTIO is a simulation platform designed to model agent-based interactions in a market environment. It simulates buyers and sellers exchanging products, with agents learning and adapting their strategies over time. The platform includes features for visualizing market dynamics and analyzing agent behavior.
 
-![Simulation](https://exemple.com/monimage.png)
+![Simulation](img/simu.png)
 
 ## Installation
 
