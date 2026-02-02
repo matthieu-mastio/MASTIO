@@ -1,7 +1,9 @@
-# MASTIO (Multi-Agent Simulator for Territorial Input Output) 
+# Multi-Agent Simulator for Territorial Input Output
 
 ## Project Description
 MASTIO is a simulation platform designed to model agent-based interactions in a market environment. It simulates buyers and sellers exchanging products, with agents learning and adapting their strategies over time. The platform includes features for visualizing market dynamics and analyzing agent behavior.
+
+![Simulation](https://exemple.com/monimage.png)
 
 ## Installation
 
@@ -17,7 +19,7 @@ MASTIO is a simulation platform designed to model agent-based interactions in a 
    ```
 2. **Create a virtual environment (recommended):**
    ```bash
-   python -m venv .venv
+   python3 -m venv .venv
    ```
 3. **Activate the virtual environment:**
    - On macOS/Linux:
